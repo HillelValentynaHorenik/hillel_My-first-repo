@@ -1,8 +1,8 @@
-Задача QA Automation — обеспечение качества продукта с использованием программных средств для создания тестов и проверки результатов выполнения. Автоматическое тестирование может полностью решить многие из задач и даже выполнить более сложные тесты, которые невозможно сделать вручную. После окончания курса выпускники обладают необходимым уровнем знаний и навыков для трудоустройства на позицию Junior QA Automation.
+The task of QA Automation is to ensure the quality of the product using software tools for creating tests and verifying the results of execution. Automated testing can completely solve many of the problems and even perform more complex tests that cannot be done manually. After completing the course, graduates have the necessary level of knowledge and skills for employment in the position of Junior QA Automation.
 
-ЦЕЛИ КУРСА
-1.Изучить синтаксис языка программирования Java
-2.Понять принципы ООП
-3.Научиться писать юнит, интеграционные и системные тесты
-4.Разобраться с некоторыми шаблонами проектирования, которые встречаются в автоматизации
-5.Научиться писать автоматизированные тесты, используя фреймворк Selenium
+COURSE OBJECTIVES
+1.Learn the syntax of the Java programming language
+2. Understand the principles of OOP
+3.Learn to write unit, integration and system tests
+4. Understand some of the design patterns found in automation
+5. Learn to write automated tests using the Selenium framework
