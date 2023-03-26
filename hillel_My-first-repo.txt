@@ -7,5 +7,15 @@ COURSE OBJECTIVES
 4. Understand some of the design patterns found in automation
 5. Learn to write automated tests using the Selenium framework
 
+The development of the visible part of any site is called Front-end, and this is the fastest growing area of ??programming. No modern website and web application can do without a Front-end developer.
+
+As part of the Front-end Basic course, students with no development experience learn HTML and CSS, learn how to make websites. After the successful completion of the course, students receive enough knowledge and skills to design a site of any complexity.
+
+COURSE OBJECTIVES
+1. Embodiment in layout design of any complexity
+2. Make websites that display equally well on any device
+3. Notice important little things and write code that is easy to extend and maintain
+4. Learn to understand the structure of web pages 
+
 
 finish
